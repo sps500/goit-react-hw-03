@@ -1,0 +1,10 @@
+.form_style {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: fit-content;
+}
+.form_style > label {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
